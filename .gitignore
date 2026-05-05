@@ -1,0 +1,13 @@
+# Large data files
+data.npy
+target.npy
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model file (optional - it's 3.3MB, okay to include but large)
+# SVM-Face Recognition.sav
